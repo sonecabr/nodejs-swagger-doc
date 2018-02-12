@@ -21,9 +21,9 @@ yarn start
 ```
 
 ___TEST___
-  1 - Accesss localhost:3000/swagger/
-  2 - Click on Authorize Button and paste `nMUbjkA8KcgAjAqmAFeSsarn`
-  3 - Test the health methos by paste `mock` on params and press Try it out!
+  - Accesss localhost:3000/swagger/
+  - Click on Authorize Button and paste `nMUbjkA8KcgAjAqmAFeSsarn`
+  - Test the health methos by paste `mock` on params and press Try it out!
 
 
 ___NEED HELP?___
