@@ -22,7 +22,7 @@ yarn start
 
 ___TEST___
   - Accesss localhost:3000/swagger/
-  - Click on Authorize Button and paste `nMUbjkA8KcgAjAqmAFeSsarn`
+  - Click on Authorize Button and paste `nMUbjkA8KcgAjAqmAFeSsarn` (this token belong to api/mock/users.js)
   - Test the health methos by paste `mock` on params and press Try it out!
 
 
